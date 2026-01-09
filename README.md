@@ -1,6 +1,6 @@
-## 🌼 Pandas Sandbox 3000
+## 🌼 Statistics Sandbox 3000
 
-Welcome to the Pandas playground - a place where I mess around with the data and some pandas tricks.
+Welcome to the Statistics playground - a place where I mess around with the data and some pandas tricks.
 
 ## What’s inside
 - playground.ipynb - my main notebook where all the shit experiments happen
